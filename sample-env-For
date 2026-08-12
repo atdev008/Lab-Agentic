@@ -1,6 +1,0 @@
-SUPABASE_URL=https://yiedwcxbujyoprpkurrb.supabase.co
-SUPABASE_KEY=sb_publishable_jmq4Nv-s8gQZa-MRTyL2QA_rMkRcflx
-OPENAI_API_KEY=YOUR_OPENAI_API_KEY
-
-SUPABASE_STORAGE_BUCKET=company-documents
-EMBEDDING_MODEL=text-embedding-3-small
