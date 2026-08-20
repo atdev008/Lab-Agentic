@@ -1,0 +1,29 @@
+# Environment variables (มี API keys)
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

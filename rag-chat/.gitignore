@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+__pycache__/
+.venv/
+
+# next.js
+.next/
+out/
+
+# env
+.env
+.env.local
+.env.production
+
+# vercel
+.vercel/
+
+# misc
+*.pyc
+.DS_Store
